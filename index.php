@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cuadro Comparativo de Software de Control de Versiones</title>
+    <title>Glosario de comandos de Git</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -70,7 +70,7 @@
 </head>
 <body>
     <nav>
-        <h1>Cuadro Comparativo de Software de Control de Versiones</h1>
+        <h1>Glosario de comandos de Git</h1>
     </nav>
     <main>
         <table>
@@ -208,9 +208,9 @@
             </tr>
             <tr>
                 <td>git tag</td>
-                <td>Muestra la versión de git</td>
-                <td></td>
-                <td><img src="" alt=""></td>
+                <td>Ande una etiqueta</td>
+                <td>nombre de etiqueta</td>
+                <td><img src="git_tag.png" alt=""></td>
             </tr>
         </table>
     </main>
