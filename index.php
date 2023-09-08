@@ -114,97 +114,97 @@
                 <td>git add</td>
                 <td>añade un archivo para hacer un commit</td>
                 <td>< file ></td>
-                <td><img src="" alt=""></td>
+                <td><img src="git_add.png" alt=""></td>
             </tr>
             <tr>
                 <td>git commit</td>
-                <td>Muestra la versión de git</td>
-                <td></td>
-                <td><img src="" alt=""></td>
+                <td>Guarda cambios en el repositorio </td>
+                <td>-m (añaade un mensaje para el commit)</td>
+                <td><img src="git_commit.png" alt=""></td>
             </tr>
             <tr>
                 <td>git push</td>
-                <td>Muestra la versión de git</td>
-                <td></td>
-                <td><img src="" alt=""></td>
+                <td>Guarda los cambios en el repositorio remoto</td>
+                <td>< repository >,< refdpec > </td>
+                <td><img src="git_push.png" alt=""></td>
             </tr>
             <tr>
                 <td>git pull</td>
-                <td>Muestra la versión de git</td>
-                <td></td>
-                <td><img src="" alt=""></td>
+                <td>Trae y integra de otro repositorio los archivos </td>
+                <td>[< repository > [< refspec >​]]</td>
+                <td><img src="git_pull.png" alt=""></td>
             </tr>
             <tr>
                 <td>git init</td>
-                <td>Muestra la versión de git</td>
-                <td></td>
-                <td><img src="" alt=""></td>
+                <td>Crea un repositorio git vacio o re inicializa uno nuevo</td>
+                <td>No tiene </td>
+                <td><img src="git_init.png" alt=""></td>
             </tr>
             <tr>
                 <td>git ls-files</td>
-                <td>Muestra la versión de git</td>
-                <td></td>
-                <td><img src="" alt=""></td>
+                <td>Muestra informacion de los archivos en el index y working tree </td>
+                <td>No tiene </td>
+                <td><img src="git_lsfiles.png" alt=""></td>
             </tr>
             <tr>
                 <td>git reset</td>
-                <td>Muestra la versión de git</td>
-                <td></td>
-                <td><img src="" alt=""></td>
+                <td>Reinicia el actual HEAD a un estado especificado</td>
+                <td>< pathspec ></td>
+                <td><img src="gti_reset.png" alt=""></td>
             </tr>
             <tr>
                 <td>git checkout</td>
-                <td>Muestra la versión de git</td>
-                <td></td>
-                <td><img src="" alt=""></td>
+                <td>Cambia el working branch</td>
+                <td>< branch ></td>
+                <td><img src="git_checkout.png" alt=""></td>
             </tr>
             <tr>
                 <td>git rm</td>
-                <td>Muestra la versión de git</td>
-                <td></td>
-                <td><img src="" alt=""></td>
+                <td>Remueve archivos del working tree y index</td>
+                <td>< pathspec ></td>
+                <td><img src="git_rm.png" alt=""></td>
             </tr>
             <tr>
                 <td>git mv</td>
-                <td>Muestra la versión de git</td>
-                <td></td>
-                <td><img src="" alt=""></td>
+                <td>Mueve or renombra un archivo o directorio</td>
+                <td>< source >, < destination ></td>
+                <td><img src="git_mv.png" alt=""></td>
             </tr>
             <tr>
                 <td>git log</td>
-                <td>Muestra la versión de git</td>
-                <td></td>
-                <td><img src="" alt=""></td>
+                <td>Muestra el historial de commits</td>
+                <td>--all --graph --decorate --oneline</td>
+                <td><img src="git_log.png" alt=""></td>
             </tr>
             <tr>
                 <td>git show</td>
-                <td>Muestra la versión de git</td>
-                <td></td>
-                <td><img src="" alt=""></td>
+                <td>Muestra los cambios que se hicieron en el commit </td>
+                <td>codigo del commit </td>
+                <td><img src="git_show.png" alt=""></td>
             </tr>
             <tr>
                 <td>git diff</td>
-                <td>Muestra la versión de git</td>
-                <td></td>
-                <td><img src="" alt=""></td>
+                <td>Muestra las diferencias entre commits </td>
+                <td>codigo del commit a comparar 1, codigo de commit a comparar 2</td>
+                <td><img src="git_diff.png" alt=""></td>
             </tr>
             <tr>
                 <td>git stash</td>
-                <td>Muestra la versión de git</td>
-                <td></td>
-                <td><img src="" alt=""></td>
+                <td>Almacena los cambio en un directorio de trabajo alterno</td>
+                <td>list, show, drop, pop, apply, branch, clear </td>
+                <td><img src="git_stash.png" alt=""></td>
             </tr>
             <tr>
                 <td>git merge</td>
-                <td>Muestra la versión de git</td>
-                <td></td>
-                <td><img src="" alt=""></td>
+                <td>Une dos o mas ramas de trabajo </td>
+                <td>branch 1 branch 2</td>
+                <td><img src="git_merge.png" alt=""></td>
             </tr>
             <tr>
                 <td>git branch</td>
-                <td>Muestra la versión de git</td>
-                <td></td>
-                <td><img src="" alt=""></td>
+                <td>Muestra los branch actuales</td>
+                <td>Nombre de branch </td>
+                <td><img src="git_branch.png" alt=""></td>
             </tr>
             <tr>
                 <td>git tag</td>
